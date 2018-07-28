@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 /root/work/pontus-git/nifi-extracttext-processor/nifi-extracttext-processors/src/main/java/com/dataflowdeveloper/processors/process/ExtractTextProcessor.java
+=======
+/Volumes/seagate/projects/nifi-extracttext-processor/nifi-extracttext-processors/src/main/java/com/dataflowdeveloper/processors/process/ExtractTextProcessor.java
+>>>>>>> 28470efec2fcd70f9ab98a346996e73022e9b0a4
