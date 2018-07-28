@@ -19,7 +19,7 @@
     <parent>
         <groupId>com.dataflowdeveloper</groupId>
         <artifactId>extracttext-processor</artifactId>
-        <version>1.5</version>
+        <version>1.6</version>
     </parent>
 
     <artifactId>nifi-extracttext-processors</artifactId>
@@ -29,14 +29,17 @@
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-api</artifactId>
+            <version>1.6.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-utils</artifactId>
+            <version>1.6.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-mock</artifactId>
+            <version>1.6.0</version>
             <scope>test</scope>
         </dependency>
         <dependency>
@@ -62,12 +65,12 @@
         <dependency>
         	<groupId>org.apache.tika</groupId>
         	<artifactId>tika-core</artifactId>
-        	<version>1.17</version>
+        	<version>1.18</version>
         </dependency>
         <dependency>
         	<groupId>org.apache.tika</groupId>
         	<artifactId>tika-parsers</artifactId>
-        	<version>1.17</version>
+        	<version>1.18</version>
         </dependency>
     </dependencies>
 </project>
